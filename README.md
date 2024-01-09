@@ -1,4 +1,4 @@
-### Hi, I'm Nicholas Boo-Rivera
+- Hi, I'm Nicholas Boo-Rivera
 I'm interested in
 
 
