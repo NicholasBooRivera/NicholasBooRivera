@@ -1,6 +1,12 @@
-- Hi, I'm Nicholas Boo-Rivera
-I'm interested in
-
+- Hi, I’m Nicholas Boo-Rivera.
+- I’m interested in mainly running, puzzle solving, and gaming.
+- I’m currently learning topics in electrical engineering, maybe in the future I will dive into advanced mathematics.
+- I'm originally from Malaysia, but I was raised on the Big Island.
+- I'm a Junior in electrical engineering.
+- I chose my major because it has been something I have been interested in since 4th grade. 
+- A fun fact about me is:  I can solve a rubiks cube in under 15 seconds.
+- What do I want to learn from EE 205?  How to use Linux in general and what I can use C and C++ for in the foreseeable future.
+- A book or movie I'd recommend is:  Killer Bean Forever(free on Youtube in 4K)
 
 <!--
 **NicholasBooRivera/NicholasBooRivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
