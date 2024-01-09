@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Nicholas Boo-Rivera
+I'm interested in
+
 
 <!--
 **NicholasBooRivera/NicholasBooRivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
